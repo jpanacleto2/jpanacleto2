@@ -32,6 +32,8 @@
   
 [React: escrevendo com Typescript](https://cursos.alura.com.br/certificate/db95ac9f-96c0-455d-a8bd-ce7f22d9614e)
   
+[JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/certificate/a78e1629-f981-4672-a3e8-bdeab8e317b8)  
+  
 ## Banco de dados
   
 [Modelagem de banco de dados: entidades, relacionamentos e atributos](https://cursos.alura.com.br/certificate/bc3ec817-1dd1-41b5-baa5-e51269cca937)
@@ -42,3 +44,4 @@
   
 [Modelagem de banco de dados relacional: normalização](https://cursos.alura.com.br/certificate/jpanacleto5/modelagem-banco-dados-relacional-normalizacao)
 
+  
