@@ -43,5 +43,7 @@
 [Modelagem de banco de dados relacional: Álgebra Relacional](https://cursos.alura.com.br/user/jpanacleto5/course/modelagem-banco-dados-algebra-relacional/certificate)
   
 [Modelagem de banco de dados relacional: normalização](https://cursos.alura.com.br/certificate/jpanacleto5/modelagem-banco-dados-relacional-normalizacao)
+  
+[Modelagem de banco de dados relacional: entendendo SQL](https://cursos.alura.com.br/certificate/83901c8a-62a4-4b7f-bcbc-c1ecf425323f)
 
   
