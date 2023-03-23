@@ -1,6 +1,5 @@
 # Ola Me chamo João 👋
 
-- 🔭 Atualmente não estou trabalhando em nada.
 - 🌱 Estou estudando Estrutura de dados,Algoritmos,SQL,Scrum
 - 📫 How to reach me: jpanacleto5@gmail.com
 - ⚡ Cursando engenharia de software 6/?
