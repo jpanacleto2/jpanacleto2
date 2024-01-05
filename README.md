@@ -1,11 +1,13 @@
-# Ola Me chamo João 👋
+# Hi there, I'm João Anacleto 👋
 
-- 🌱 Atualmente estudando Python,NLP,Banco de dados e Requisitos de Software
-- 📫 How to reach me: jpanacleto5@gmail.com
-- ⚡ Cursando engenharia de software 8/10
+## Here is a brief introduction about myself.
+Graduating in Software Engineering at the Universidade de Brasilia (UNB).
 
+Currently studying Depp learning and AI.
 
-  ##
+Interests on AI, data science, machine learning and related fields.
+
+### 📫 How to reach me 
 
 <div> 
   <a href="https://www.instagram.com/joaopedroanacleto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,8 +15,10 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-anacleto-ferreira-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+### Here is my [data science & machine learning portfolio](https://github.com/jpanacleto2/Portfolio) :robot:
   
-# Certificações
+# Certifications
 
 ## Front-end
   
@@ -24,7 +28,7 @@
   
 [JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/certificate/a78e1629-f981-4672-a3e8-bdeab8e317b8)  
   
-## Banco de dados
+## Database
   
 [Modelagem de banco de dados: entidades, relacionamentos e atributos](https://cursos.alura.com.br/certificate/bc3ec817-1dd1-41b5-baa5-e51269cca937)
   
