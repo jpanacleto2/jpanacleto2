@@ -3,7 +3,7 @@
 ## Here is a brief introduction about myself.
 Graduating in Software Engineering at the Universidade de Brasilia (UNB).
 
-Currently studying Depp learning and AI.
+Currently studying Deep learning and AI.
 
 Interests on AI, data science, machine learning and related fields.
 
