@@ -16,7 +16,9 @@ Interests on AI, data science, machine learning and related fields.
  
 </div>
 
-### Here is my [data science & machine learning portfolio](https://github.com/jpanacleto2/Portfolio) :robot:
+### Here is my [portfolio](https://jpanacleto2.github.io/Portfolio/)
+
+### Here is my [Machine learning and Data Science Experiments](https://github.com/jpanacleto2/Machine-learning-experiments) :robot:
   
 # Certifications
 
